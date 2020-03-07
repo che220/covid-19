@@ -15,5 +15,4 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
 |Date | Prediction | Actual |
 |-----|------------|--------|
 |3/7  |   345      |        |
-|-----|------------|--------|
 |3/8  |   502      |        |
