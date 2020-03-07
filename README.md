@@ -10,7 +10,7 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
   
     US, Germany, and France: Cases are growing exponentially.
   
-### US prediction
+### US Predictions
 
 |Date | Prediction | Actual |
 |-----|------------|--------|
