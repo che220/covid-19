@@ -6,10 +6,12 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
 
     South Korea and Italy: They started lockdowns. We can see the slowdown of confirmed cases in the log-scale chart.
   
-    Japan: Either Japan is hiding the cases by not testing them, or Japanese are really disciplined. But I inclined to believe Japan is hiding cases
+    Japan: Japan's cases grow very slow. hiding info or wearing mask?
   
     US, Germany, and France: Cases are growing exponentially. Slope: France - 0.31 (1.36), Germany - 0.35 (1.42), US - 0.37 (1.45)
-  
+
+    Why does Italy have more deaths than South Korea?
+
 ### US Predictions
 
 |Date | Prediction | Actual |
