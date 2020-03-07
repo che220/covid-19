@@ -8,7 +8,7 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
   
     Japan: Either Japan is hiding the cases by not testing them, or Japanese are really disciplined. But I inclined to believe Japan is hiding cases
   
-    US, Germany, and France: Cases are growing exponentially.
+    US, Germany, and France: Cases are growing exponentially. Slope: France - 0.31 (1.36), Germany - 0.35 (1.42), US - 0.37 (1.45)
   
 ### US Predictions
 
