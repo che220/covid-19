@@ -17,9 +17,16 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
 |Date | Prediction | Actual |
 |-----|------------|--------|
 |3/7  |   345      |  351   |
-|3/8  |   502      |        |
-|3/9  |   731      |        |
+|3/8  |   502      |  472   |
+|3/9  |   731      |  539   |
 |3/10 |   1063     |        |
 |3/11 |   1546     |        |
 |3/12 |   2248     |        |
 |3/13 |   3270     |        |
+
+
+### Mar 9, 2020
+
+For 2 days in a row, the actuals are less than prediction, especially today. So the spread of the virus is slowing down. Let's see if it can maintain that!
+
+France and Germany also slowed down with US. This is good news.
