@@ -16,9 +16,9 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
 
 |Date | Prediction | Actual |
 |-----|------------|--------|
-|3/7  |   345      |  351   |
-|3/8  |   502      |  472   |
-|3/9  |   731      |  539   |
+|3/7  |   345      |  351   | (Total 67 from boats)
+|3/8  |   502      |  517   | (Total 67 from boats)
+|3/9  |   731      |  671   | (Total 67 from boats)
 |3/10 |   1063     |        |
 |3/11 |   1546     |        |
 |3/12 |   2248     |        |
@@ -27,8 +27,6 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
 
 ### Mar 9, 2020
 
-For 2 days in a row, the actuals are less than prediction, especially today. So the spread of the virus is slowing down. Let's see if it can maintain that! (Remember we excluded people from the two cruises)
+I had to correct the numbers because Johns Hopkins's numbers are inaccurate. Different websites reported anywhere between 707 and 738 cases in US, while JH's reported 607. Obviously JH was wrong.
 
-France and Germany also slowed down with US. This is good news.
-
-Awareness and precaution is critical.
+JH's 3/8 reported number was likely to be wrong as well. So I corrected that as well.
