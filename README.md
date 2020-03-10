@@ -30,3 +30,5 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
 For 2 days in a row, the actuals are less than prediction, especially today. So the spread of the virus is slowing down. Let's see if it can maintain that!
 
 France and Germany also slowed down with US. This is good news.
+
+Awareness and precaution is critical.
