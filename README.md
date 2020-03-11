@@ -29,4 +29,16 @@ Uses data in https://github.com/CSSEGISandData/COVID-19.git
 
 I had to correct the numbers because Johns Hopkins's numbers are inaccurate. Different websites reported anywhere between 707 and 738 cases in US, while JH's reported 607. Obviously JH was wrong.
 
-JH's 3/8 reported number was likely to be wrong as well. So I corrected that as well.
+JH's 3/8 reported number was likely to be wrong as well.
+
+### Mar 10, 2020
+
+Run regression again up to 3/9. With a few more data points, the slope is 0.35 (1.42). The growth barely slowed down. The correlation is still quite linear.
+
+|Date | Prediction | Actual |
+|-----|------------|--------|
+|3/10 |   932      |   951  |
+|3/11 |   1334     |     |
+|3/12 |   1910     |     |
+|3/13 |   2734     |     |
+|3/14 |   3913     |     |
