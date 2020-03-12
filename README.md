@@ -38,7 +38,12 @@ Run regression again up to 3/9. With a few more data points, the slope is 0.35 (
 |Date | Prediction | Actual |
 |-----|------------|--------|
 |3/10 |   932      |   951  |
-|3/11 |   1334     |     |
+|3/11 |   1334     |   1240 |
 |3/12 |   1910     |     |
 |3/13 |   2734     |     |
 |3/14 |   3913     |     |
+
+### Mar 11, 2020
+
+New York State sent in national guards into New Rochelle. This should slow down the growth of confirmed cases.
+
