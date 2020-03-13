@@ -39,7 +39,7 @@ Run regression again up to 3/9. With a few more data points, the slope is 0.35 (
 |-----|------------|--------|
 |3/10 |   932      |   951  |
 |3/11 |   1334     |   1240 |
-|3/12 |   1910     |     |
+|3/12 |   1910     |   1690 |
 |3/13 |   2734     |     |
 |3/14 |   3913     |     |
 
@@ -47,3 +47,6 @@ Run regression again up to 3/9. With a few more data points, the slope is 0.35 (
 
 New York State sent in national guards into New Rochelle. This should slow down the growth of confirmed cases.
 
+### Mar 12, 2010
+
+Significantly lower! We have to observe it for a week or so. Just want to make sure it is not because of inadequate testing.
