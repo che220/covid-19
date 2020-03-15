@@ -56,7 +56,9 @@ Rerun regression and predications after 3/12:
 |Date | Prediction | Actual |
 |-----|------------|--------|
 |3/13 |   2528     |   2226 |
-|3/14 |   3612     |    |
+|3/14 |   3612     |   2943 |
 |3/15 |   5161     |    |
 |3/16 |   7374     |    |
 |3/17 |   10535    |
+
+Looks like I need a new regression
