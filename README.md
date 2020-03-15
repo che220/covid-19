@@ -65,7 +65,7 @@ Looks like I need a new regression
 
 ### 2020-03-14
 
-Use quadratic function.
+Use quadratic function. The spread is slowing down a bit. This is due to social distancing and reduced outdoor activities.
 
 |Date | Prediction | Actual |
 |-----|------------|--------|
