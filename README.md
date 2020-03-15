@@ -47,7 +47,7 @@ Run regression again up to 3/9. With a few more data points, the slope is 0.35 (
 
 New York State sent in national guards into New Rochelle. This should slow down the growth of confirmed cases.
 
-### 2020-03-12 / 2020-03-13
+### 2020-03-12 / 2020-03-13 / 2020-03-14
 
 Significantly lower! We have to observe it for a week or so. Just want to make sure it is not because of inadequate testing.
 
@@ -62,3 +62,15 @@ Rerun regression and predications after 3/12:
 |3/17 |   10535    |
 
 Looks like I need a new regression
+
+### 2020-03-14
+
+Use quadratic function.
+
+|Date | Prediction | Actual |
+|-----|------------|--------|
+|3/15 |   3647     |    |
+|3/16 |   4756     |    |
+|3/17 |   6146     |    |
+|3/18 |   7870     |    |
+|3/19 |   9989     |
