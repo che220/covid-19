@@ -69,8 +69,12 @@ Use quadratic function. The spread is slowing down a bit. This is due to social 
 
 |Date | Prediction | Actual |
 |-----|------------|--------|
-|3/15 |   3647     |    |
+|3/15 |   3647     |  3738  |
 |3/16 |   4756     |    |
 |3/17 |   6146     |    |
 |3/18 |   7870     |    |
 |3/19 |   9989     |
+
+### 2020-03-15
+
+Quadratic function worked well for one day. We need to watch it for a couple of more days. We need to curve to bend down even more. Social distancing is working!
