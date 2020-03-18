@@ -71,10 +71,14 @@ Use quadratic function. The spread is slowing down a bit. This is due to social 
 |-----|------------|--------|
 |3/15 |   3647     |  3738  |
 |3/16 |   4756     |  4669  |
-|3/17 |   6146     |    |
+|3/17 |   6146     |  6427  |
 |3/18 |   7870     |    |
 |3/19 |   9989     |
 
 ### 2020-03-15
 
-Quadratic function worked well for one day. We need to watch it for a couple of more days. We need to curve to bend down even more. Social distancing is working!
+Quadratic function worked well for one day. We need to watch it for a couple of more days. We need the curve to bend down even more. Social distancing is working!
+
+### 2020-03-18
+
+Yesterday's cases are more than forecasted. Looks like the previous lower numbers are simply an indication of inadequate tests. Wearing masks is still expected to be the turning point of this pandemic in the US. I will wait for one more day to check the model again.
