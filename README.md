@@ -73,7 +73,7 @@ Use quadratic function. The spread is slowing down a bit. This is due to social 
 |3/16 |   4756     |  4669  |
 |3/17 |   6146     |  6427  |
 |3/18 |   7870     |  9351  |
-|3/19 |   9989     |
+|3/19 |   9989     | 13611  |
 
 ### 2020-03-15
 
@@ -84,3 +84,15 @@ Quadratic function worked well for one day. We need to watch it for a couple of 
 Yesterday's cases are more than forecasted. Looks like the previous lower numbers are simply an indication of inadequate tests. Wearing masks is still expected to be the turning point of this pandemic in the US. I will wait for one more day to check the model again.
 
 Significant higher than forecast. This is the result of more testings.
+
+### 2020-03-19
+
+As testing gets more comprehensive, confirmed cases are growing fast. I have to go back to the linear model. Unless masks are widely enforced, linear model will stay.
+
+|Date | Prediction | Actual |
+|-----|------------|--------|
+|3/20 |   19255    |  |
+|3/21 |   26712    |  |
+|3/22 |   37056    |  |
+|3/23 |   51405    |  |
+|3/24 |   71311    |
