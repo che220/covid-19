@@ -91,7 +91,7 @@ As testing gets more comprehensive, confirmed cases are growing fast. I have to 
 
 |Date | Prediction | Actual |
 |-----|------------|--------|
-|3/20 |   19255    |  |
+|3/20 |   19255    |  19700 |
 |3/21 |   26712    |  |
 |3/22 |   37056    |  |
 |3/23 |   51405    |  |
