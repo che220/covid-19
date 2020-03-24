@@ -93,6 +93,8 @@ As testing gets more comprehensive, confirmed cases are growing fast. I have to 
 |-----|------------|--------|
 |3/20 |   19255    |  19700 |
 |3/21 |   26712    |  26800 |
-|3/22 |   37056    |  |
-|3/23 |   51405    |  |
+|3/22 |   37056    |  35120 |
+|3/23 |   51405    |  49600 |
 |3/24 |   71311    |
+
+We will take a look at the curve again after 3/24 data
