@@ -101,7 +101,12 @@ We will take a look at the curve again after 3/24 data
 
 ### 2020-03-24
 
-Looks like the curve is flattening. Use quadratic function again.
+Looks like the curve is flattening. Use quadratic function again. NYC's method works.
+
+1. widespread testing
+2. lockdown
+
+Hopefully other big cities adopt this quickly.
 
 |Date | Prediction | Actual |
 |-----|------------|--------|
