@@ -98,3 +98,15 @@ As testing gets more comprehensive, confirmed cases are growing fast. I have to 
 |3/24 |   71311    |  55100 |
 
 We will take a look at the curve again after 3/24 data
+
+### 2020-03-24
+
+Looks like the curve is flattening. Use quadratic function again.
+
+|Date | Prediction | Actual |
+|-----|------------|--------|
+|3/25 |   72093    |   |
+|3/26 |   94449    |   |
+|3/27 |  123269    |   |
+|3/28 |  160276    |   |
+|3/29 |  207605    |   |
